@@ -1,0 +1,5 @@
+ENTRY "/" URL "/"
+ENTRY "/etc" URL "/etc"
+ENTRY "/var/www" URL "/var/www"
+ENTRY "/etc/apache2" URL "/etc/apache2"
+ENTRY "/var/log" URL "/var/log"
