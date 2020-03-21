@@ -53,7 +53,7 @@ editor_cursor_beyond_eol=false
 editor_cursor_after_inserted_block=false
 editor_visible_tabs=true
 editor_visible_spaces=true
-editor_line_state=true
+editor_line_state=false
 editor_simple_statusbar=false
 editor_check_new_line=false
 editor_show_right_margin=false
@@ -82,7 +82,6 @@ editor_filesize_threshold=64M
 editor_stop_format_chars=-+*\\,.;:&>
 mcview_eof=
 skin=default
-
 filepos_max_saved_entries=1024
 
 [Layout]
@@ -95,7 +94,7 @@ menubar_visible=1
 free_space=1
 horizontal_split=0
 vertical_equal=1
-left_panel_size=75
+left_panel_size=0
 horizontal_equal=1
 top_panel_size=1
 
@@ -136,11 +135,6 @@ permission_mode=false
 torben_fj_mode=false
 quick_search_mode=2
 select_flags=6
-
-simple_swap=false
-
-[HotlistConfig]
-expanded_view_of_groups=0
 
 [Panelize]
 Find *.orig after patching=find . -name \\*.orig -print
