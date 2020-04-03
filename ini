@@ -97,7 +97,7 @@ menubar_visible=1
 free_space=1
 horizontal_split=0
 vertical_equal=1
-left_panel_size=75
+left_panel_size=102
 horizontal_equal=1
 top_panel_size=1
 
@@ -120,9 +120,6 @@ color_terminals=
 
 linux=
 
-[HotlistConfig]
-expanded_view_of_groups=0
-
 [Panels]
 show_mini_info=true
 kilobyte_si=false
@@ -143,6 +140,8 @@ permission_mode=false
 torben_fj_mode=false
 quick_search_mode=2
 select_flags=6
+
+simple_swap=false
 
 [HotlistConfig]
 expanded_view_of_groups=0
