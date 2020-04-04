@@ -46,7 +46,7 @@ editor_option_save_position=true
 editor_option_auto_para_formatting=false
 editor_option_typewriter_wrap=false
 editor_edit_confirm_save=true
-editor_syntax_highlighting=false
+editor_syntax_highlighting=true
 editor_persistent_selections=true
 editor_drop_selection_on_copy=true
 editor_cursor_beyond_eol=false
@@ -140,25 +140,6 @@ permission_mode=false
 torben_fj_mode=false
 quick_search_mode=2
 select_flags=6
-
-simple_swap=false
-
-[HotlistConfig]
-expanded_view_of_groups=0
-
-[FindFile]
-file_case_sens=true
-file_shell_pattern=true
-file_find_recurs=true
-file_skip_hidden=false
-file_all_charsets=false
-content_case_sens=true
-content_regexp=false
-content_first_hit=false
-content_whole_words=false
-content_all_charsets=false
-ignore_dirs_enable=true
-ignore_dirs=
 
 [Panelize]
 Find *.orig after patching=find . -name \\*.orig -print
